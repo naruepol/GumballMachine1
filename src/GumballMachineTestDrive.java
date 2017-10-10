@@ -5,6 +5,8 @@ public class GumballMachineTestDrive {
 		// TODO Auto-generated method stub
 		GumballMachine gumballMachine =  new GumballMachine(5);
 		
+		System.out.println(gumballMachine);
+		//System.out.println(gumballMachine.toString());		
 	}
 
 }
